@@ -11,6 +11,7 @@
   * [EC2](devops/1wk/ec2.md)
   * [AWS AMI](devops/1wk/aws-ami.md)
 * [2wk](devops/2wk/README.md)
+  * [Web architecture](devops/2wk/web-architecture.md)
   * [load balancer](devops/2wk/load-balancer.md)
   * [nginxSetting](devops/2wk/nginxsetting.md)
 
